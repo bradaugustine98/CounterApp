@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">CounterAssignment</string>
-    <string name="str_count">0</string>
-    <string name="btn_toasttext">toast</string>
-    <string name="count_uptext">Count Up</string>
-</resources>
